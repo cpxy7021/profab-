@@ -24,3 +24,5 @@ Ranged rates require selection within the supplied interval. Project/difficulty-
 - 按提供的黑白A4模板生成报价单，可编辑客户、联系人、交期、付款方式和备注。
 - 明细显示单件重量与元/g报价标准，注明估重及人工核价；支持零件图片、Excel下载和打印/另存PDF。
 - 原报价标准、起步补差、折扣与税额逻辑保持一致，多页PDF自动重复表头。
+
+- 导出工具集中在“确认”模块，核对报价明细后可导出报价、批量STL、风险建议及摆放STL。
